@@ -12,7 +12,7 @@
 
 [![自动生成 GitHub Pages](https://github.com/ipaperclip-icu/paperclipfans/actions/workflows/main.yml/badge.svg)](https://github.com/ipaperclip-icu/paperclipfans/actions/workflows/main.yml)
 
-[ipaperclip.icu/文字稿](https://ipaperclip.icu/文字稿)
+[ipaperclip.icu/文字稿](https://ipaperclip.icu/文字稿/)
 
 该站点由 GitHub Actions 自动构建并部署在 GitHub Pages。通常情况下，站点内容与仓库同步。如果你对该站点有任何疑问，可以直接发 issue 或联系 hi@ipaperclip.icu 。
 
