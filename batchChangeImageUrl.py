@@ -2,7 +2,7 @@ import os
 
 ### 配置 ###
 fileName = ['Ad','Df','Sp','Vol','x']
-beforeContent = 'https://cdn.jsdelivr.net/gh/just-prog/static/image/'
+beforeContent = 'https://cdn.jsdelivr.net/gh/Just-Prog/static/'
 afterContent = 'https://cdn.jsdelivr.net/gh/ipaperclip-icu/static/image/文字稿/'
 ### 配置 ###
 
